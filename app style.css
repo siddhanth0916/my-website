@@ -1,0 +1,9 @@
+body {
+    background background-color:dimgrey;
+}
+html {
+scroll-behavior: smooth;
+}
+iframe {
+box-sizing: inherit;
+}
